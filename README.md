@@ -1,4 +1,5 @@
-## Hi there 👋
+## Olá, eu sou o Gustavo!
+## Sou estudante de Sistemas de informação na Universidade Federal de Ouro Preto (UFOP) campus João Monlevade.
 
 <!--
 **GustavoRolim1/GustavoRolim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
